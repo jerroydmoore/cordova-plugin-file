@@ -20,10 +20,9 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
 xmlns:android="http://schemas.android.com/apk/res/android"
-           id="cordova-plugin-file"
       version="4.1.1-dev">
     <name>File</name>
-    <description>Cordova File Plugin</description>
+    <description>Cordova File Plugin Missing ID</description>
     <license>Apache 2.0</license>
     <keywords>cordova,file</keywords>
     <repo>https://git-wip-us.apache.org/repos/asf/cordova-plugin-file.git</repo>
